@@ -1,6 +1,6 @@
 import telebot
 from telebot import types
-bot = telebot.TeleBot('6981427840:AAEh8F69AWNCFeoD5uYqOh7QzW83ksWhE_s')
+bot = telebot.TeleBot('')
 
 # Localized text
 messages = {
